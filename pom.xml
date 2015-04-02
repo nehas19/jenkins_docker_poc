@@ -110,15 +110,9 @@
 	<artifactId>clover</artifactId>
 	<version>2.4.2</version>
 </dependency>
-<dependency>
-	<groupId>emma</groupId>
-	<artifactId>emma</artifactId>
-	<version>2.1.5320</version>
-</dependency>
 
-		
-		
-  </dependencies>
+
+ </dependencies>
   <build>
     <finalName>ems_db-master</finalName>
  
