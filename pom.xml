@@ -130,7 +130,7 @@
 				<configuration>
 					<url>http://localhost:5006/manager/text</url>
 					<server>TomcatServer</server>
-					<path>/neha</path>
+					<path>/saini</path>
 				</configuration>
 			</plugin>
 			
